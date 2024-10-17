@@ -1,7 +1,6 @@
-![Android Developer](https://www.facebook.com/photo/?fbid=344088718735095&set=a.103959939414642)
+![Android Developer](https://media.licdn.com/dms/image/v2/D5616AQHr5MyVAMKJeA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709483024665?e=1734566400&v=beta&t=t5NIops8xmXRCfGVwcAgxB3rpQZuA3qwpBEUQKjjQ2Q)
 ### Hi there 👋, I'm Aktarruzzaman Rifat 
 #### Android Developer
-
 I am studying in Varendra University CSE Department 
 
 Skills: C/C++/Java / HTML / CSS
@@ -27,4 +26,3 @@ Skills: C/C++/Java / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/Aktarruzzaman)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Aktarruzzaman)  
-
